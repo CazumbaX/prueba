@@ -18,6 +18,7 @@ public class GithubClon {
         // TODO code application logic here
         System.out.print("Yioh");
         System.out.print("Gomene");
+        System.out.print("Ureshi");
     }
     
 }
