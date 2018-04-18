@@ -17,6 +17,7 @@ public class GithubClon {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.print("Yioh");
+        System.out.print("Gomene");
     }
     
 }
